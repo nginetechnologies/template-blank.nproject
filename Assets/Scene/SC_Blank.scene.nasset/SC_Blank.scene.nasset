@@ -1,0 +1,571 @@
+{
+    "guid": "92ee93b7-a13d-1442-090e-72f1a227b7b7",
+    "source": "../SC_Blank.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0e8f1a20-485e-491b-71a2-78b88261c7ab",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC_Blank"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1b87765e-2d66-c0d5-c39a-213d7aa77b6f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "118b042f-dd36-9214-5a1f-c46a586bee9c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.9995,
+                    0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5a43c3cb-322b-887d-37dc-8c8c2954fffa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ecdebd9c-44ef-1b59-9fd6-837fefc42518",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    -1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3dea8722-abbf-29e6-a3ab-dd7d3946df61",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.004"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    -3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6085f067-1e10-f53a-bc5c-97f4f46bb753",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.005"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "280326a3-ca39-d63b-c437-ae9972a8fc87",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.006"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "db7807ac-f196-c45d-9415-95ed861f8597",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.007"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e366d7d-f47f-6415-37db-22eea3a6963f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.008"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.999,
+                    3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ea38c36b-ed73-84f2-9b34-ff04861b7dd3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.009"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.9995,
+                    3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "59076c27-016d-6756-52f2-9722ee8df825",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.010"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.9995,
+                    1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a69519d6-a3a7-12b9-98ad-e271f06016bd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.011"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.9995,
+                    -1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "298b4eb0-4f30-9481-4f73-d8088fdff695",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.012"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7f28b4d8-e6a9-d736-4c20-3689d62bfc34",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.013"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "432f5df3-e375-3b08-dfe0-38c6c8c45979",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.014"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.9995,
+                    3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f112aab-5d8d-5436-8465-dc9f476dd483",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.015"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.9995,
+                    1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "70d11d8d-b94c-7b92-a7bf-962a956b64e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.016"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.999,
+                    3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7916341d-f78d-24be-191f-13f9a367c8fd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.017"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.999,
+                    1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3e25001a-ef48-9dbb-1b56-d59e94b14309",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.018"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.9995,
+                    0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b2050a14-8af0-c5af-8a2b-7ae27a7cb6cc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.019"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.999,
+                    0.0,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cfe8bef0-b09b-2a02-ee7d-6a6312ad1278",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.020"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6d5cb271-ed64-abc2-9412-2b4f938f73ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.021"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.9995,
+                    -1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "87a09ddd-85f7-a0ad-a7b1-309def207db7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.022"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.999,
+                    -1.9995,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7dea7802-9cb6-d446-d045-5d2bf5fdee11",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.023"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "de02a2f3-b79a-7ffb-a134-ec81a0205596",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.024"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.9995,
+                    -3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0cad7e7f-2e7a-da7e-94b9-133c827042bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.025"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.999,
+                    -3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "647076db-6f7e-92b8-7192-1de0c66e415a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tile.026"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.9995,
+                    -3.999,
+                    0.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a8b1da98-7beb-dc59-1a99-92900f897fb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a49e0b11-a8f8-0a6c-6564-8d36de688ec9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Blue"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99f27437-6938-e03d-3ed7-a1104af2b2cf"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "92ee93b7-a13d-1442-090e-72f1a227b7b7"
+    }
+}
